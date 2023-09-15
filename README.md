@@ -1,2 +1,0 @@
-# OSMW
-MyWorlds Book Wiki
