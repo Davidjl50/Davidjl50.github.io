@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 16:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 16:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -12,6 +12,43 @@
             <guid>49d549daf905425b9b6cfb1360cdb4e2</guid>
             <pubDate>Fri, 15 Sep 2023 16:01:17 GMT</pubDate>
             <content:encoded><![CDATA[This is where I will putting info about my Books, Characters, Places, and Objects]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jazmyn]]></title>
+            <guid>931d341d6fbf4ccdb49962bff577a8fa</guid>
+            <pubDate>Thu, 14 Sep 2023 15:57:42 GMT</pubDate>
+            <content:encoded><![CDATA[<html class="jop-noMdConv">
+  <head class="jop-noMdConv">
+    
+    
+    
+    
+    <title class="jop-noMdConv">Jazmyn</title>
+  </head>
+  <body class="jop-noMdConv">
+    <div class="content jop-noMdConv">
+       <h1 class="jop-noMdConv">Jazmyn</h1>
+<pre><code>  &lt;div class="ck-content"&gt;
+    &lt;p&gt;
+      &lt;img src=":/bc9444315d044e13969fbc23792d8795"&gt;
+      &lt;br&gt;Name:&amp;nbsp;
+      &lt;br&gt;Nicknames:&amp;nbsp;
+      &lt;br&gt;Role:&amp;nbsp;
+      &lt;br&gt;Gender:&amp;nbsp;
+      &lt;br&gt;Age:&amp;nbsp;
+      &lt;br&gt;Race:
+      &lt;br&gt;Height:&amp;nbsp;
+      &lt;br&gt;Weight:&amp;nbsp;
+      &lt;br&gt;Hair Color:&amp;nbsp;
+      &lt;br&gt;Eye Color:&amp;nbsp;
+      &lt;br&gt;Skin Color:
+      &lt;br&gt;Distinguishing:&lt;/p&gt;
+    &lt;p&gt;Description:&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+  </div></body>
+</html>]]></content:encoded>
         </item>
     </channel>
 </rss>
