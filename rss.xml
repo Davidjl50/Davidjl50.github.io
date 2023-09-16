@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 23:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 00:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -24,94 +24,6 @@
             <guid>49d549daf905425b9b6cfb1360cdb4e2</guid>
             <pubDate>Fri, 15 Sep 2023 16:01:17 GMT</pubDate>
             <content:encoded><![CDATA[This is where I will putting info about my Books, Characters, Places, and Objects]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Gantt]]></title>
-            <guid>9f617e72f5df44e589559c3d9d9c2023</guid>
-            <pubDate>Tue, 28 Dec 2021 19:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[
-				<div>
-					
-					<pre class="mermaid">
-gantt
-section Chapter 1
-  Morning Routine               :         s1,2019-06-07 08:00,30min
-  Brit's home alone               :         s2,2019-06-07 09:00,30min
-section Chapter 2
-  Morgan at Work               :         s1,2019-06-07 09:00,30min
-  Where is Brit?               :         s2,2019-06-07 17:00,30min
-section Chapter 3
-  What were you thinking?               :         s1,2019-06-07 19:00,30min
-  Why did he try to call?               :         s2,2019-06-07 20:00,30min
-section Chapter 4
-  Brit's strange morning               :         s1,2019-06-08 09:15,30min
-  What's going on at work?               :         s2,2019-06-08 09:30,30min
-section Chapter 5
-  The Talk (Maybe)               :         s1,2019-06-08 17:00,30min
-  The Call               :         s2,2019-06-08 19:30,30min
-section Chapter 6
-  Selena wants to help               :         s1,2019-06-09 10:00,30min
-  Slip out Sunday               :         s2,2019-06-09 08:00,30min
-section Chapter 7
-  To the estate               :         s1,2019-06-10 08:25,30min
-  Warm Welcome               :         s2,2019-06-10 11:10,30min
-section Chapter 8
-   A creature is found               :         s1,2019-06-11 09:30,30min
-  Butting heads               :         s2,2019-06-11 09:45,30min
-section Chapter 9
-  My plan is going well               :         s1,2019-06-07 08:00,30min
-  Clues on the wall               :         s2,2019-06-11 00:00,30min
-section Chapter 10
-  Bryz shows  the portal               :         s1,2019-06-11 09:45,30min
-  Brit begins               :         s2,2019-06-07 08:00,30min
-section Chapter 11
-  Sena has a talks with Edward               :         s1,2019-06-07 08:00,30min
-  Brit goes into the portal               :         s2,2019-06-07 08:00,30min
-section Chapter 12
-   u              :         s1,2019-06-07 08:00,30min
-  Where’s Brit? Again.               :         s2,2019-06-07 08:00,30min
-section Chapter 13
-  Check the Prophecy               :         s1,2019-06-18 20:00,30min
-  Brit’s acting strange               :         s2,2019-06-07 08:00,30min
-section Chapter 14
-      uu           :         s1,2019-06-07 08:00,30min
-        u        :         s2,2019-06-18 00:00,30min
-section Chapter 15
-  Sena shows her head               :         s1,2019-06-07 08:00,30min
-      u           :         s2,2019-06-07 08:00,30min
-section Chapter 16
-  Brit turns bad               :         s1,2019-06-07 08:00,30min
-      u           :         s2,2019-06-07 08:00,30min
-section Chapter 17
-  Edward escapes               :         s1,2019-06-07 08:00,30min
-     uu            :         s2,2019-06-07 08:00,30min
-section Chapter 18
-       u         :         s1,2019-06-07 08:00,30min
-  The portal is next               :         s2,2019-06-07 08:00,30min
-section Chapter 19
-  Sena and Brit               :         s1,2019-06-07 08:00,30min
-  Try to stop Sena               :         s2,2019-06-07 08:00,30min
-section Chapter 20
-  Asking for help               :         s1,2019-06-20 16:00,30min
-  Bryz wants to help               :         s2,2019-06-07 08:00,30min
-section Chapter 21
-  Jazmyn can’t talk                :         s1,2019-06-07 08:00,30min
-  Morgan pleas to Brit               :         s2,2019-06-07 08:00,30min
-section Chapter 22
-  Sena takes the keystone               :         s1,2019-06-07 08:00,30min
-  Portal is opened               :         s2,2019-06-07 08:00,30min
-section Chapter 23
-  Creatures run arye               :         s1,2019-06-07 08:00,30min
-  Brits back               :         s2,2019-06-07 08:00,30min
-section Chapter 24
-  Fight for the portal               :         s1,2019-06-27 22:00,30min
-  Bryz dies               :         s2,2019-06-07 08:00,30min
-section Chapter 25
-  Sena has said her last words               :         s1,2019-06-28 22:00,30min
-  Time to go home               :         s2,2019-06-07 08:00,30min
-</pre>
-				</div>
-			]]></content:encoded>
         </item>
     </channel>
 </rss>
