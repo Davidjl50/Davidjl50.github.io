@@ -4,14 +4,20 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 13:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 18:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
-            <title><![CDATA[Draw]]></title>
+            <title><![CDATA[Location: Oak Stone]]></title>
+            <guid>6368d454604645d69d1223b33e8eeda4</guid>
+            <pubDate>Sun, 17 Sep 2023 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[Oak Stone]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Map]]></title>
             <guid>653bd6884b184e80ad7a1d0aa5e1fef1</guid>
             <pubDate>Sun, 17 Sep 2023 13:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/_resources/ae39f5d7282f49738b0acdc7842fc95b.png" />]]></content:encoded>
+            <content:encoded><![CDATA[<img src="/_resources/dc91af786b8a428494b165182f0ef961.png" />]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Jazmyn Wolff Wiki]]></title>
